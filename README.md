@@ -8,7 +8,7 @@ A CLI tool to generate data models from UCD (Unicode Character Database) files.
 ## 📦 Overview
 
 ```bash
-npx @ucd/genie@latest
+npx @ucdjs/genie@latest
 ```
 
 ## 📄 License
