@@ -3,7 +3,6 @@ import type { GenerateCLIArguments } from "./cmd/generate";
 import process from "node:process";
 import {
   bgGreen,
-  bgWhite,
   black,
   bold,
   dim,
